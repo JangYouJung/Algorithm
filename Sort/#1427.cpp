@@ -14,7 +14,7 @@ int main(){
         else n/=10;
     }
     
-    sort(N.begin(),N.end());
+    sort(N.begin(),N.end()); // 오름차순으로 배열하기
 
     for(int i =0; i<N.size(); i++){
         cout<<N[i];
