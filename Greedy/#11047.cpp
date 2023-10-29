@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     ios::sync_with_stdio(false);
-    cin.tie(NULL); cout.tie(NULL);
+    cin.tie(NULL); cout.tie(NULL); //시간 감축
 
     int n, k;
     cin >> n >> k;
